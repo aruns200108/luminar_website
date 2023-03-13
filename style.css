@@ -1,0 +1,64 @@
+/* h1.cv{
+    font-size: 45px;
+} */
+
+
+@media (max-width: 767px){
+h1.cv {
+    font-size: 20px;
+    line-height: 25px;
+    padding-bottom: 10px;
+    margin-left: -66px;
+}}
+
+
+/* p.cv2{
+    font-size: 45px;
+} */
+
+
+@media (max-width: 767px){
+p.cv2 {
+    font-size: 9px;
+    line-height: 22px;
+    padding-bottom: 12px;
+    margin-left: -63px
+}}
+
+/* h1.cv3{
+    font-size: 45px;
+}
+ */
+
+@media (max-width: 767px){
+h1.cv3{
+    font-size: 20px;
+    line-height: 25px;
+    padding-bottom: 10px;
+    margin-left: -10px;
+}}
+
+/* p.cv4{
+    font-size: 45px;
+} */
+
+
+@media (max-width: 767px){
+p.cv4 {
+    font-size: 9px;
+    line-height: 22px;
+    padding-bottom: 12px;
+    margin-left: -19px
+}}
+
+.gh{
+    width: 150px;
+    
+    height: 50px;
+    border: 2px solid rgb(141, 1, 141);
+    border-radius: 10px;
+    margin-top: 20px;
+  
+    color: rgb(141, 1, 141);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
